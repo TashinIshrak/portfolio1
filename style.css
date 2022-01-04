@@ -1,0 +1,95 @@
+span{
+    color: #ffa600;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    background-color: #0F0826;
+}
+.top{
+    background-image: url(/image/tt.png);
+    background-repeat: no-repeat;
+}
+.half-width h3{
+    color:#ffa600;
+    font-size: 35px;
+}
+.half-width a{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color:#ffa600;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 4px 4px 20px orange;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+h1{
+    font-size: 65px;
+}
+.half-width p{
+    text-align: justify;
+}
+.another-half{
+    width: 40%;
+    float: right;
+    margin-right: 5%;
+    padding: 2%;
+}
+.another-half img{
+    width: 100%;
+}
+.another-half a{
+    text-decoration: none;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 10px;
+    background-color: #ffa600;
+    box-shadow: 4px 4px 20px orange;
+}
+.middle{
+    background-image: url(/image/tt.png);
+    background-repeat: no-repeat;
+}
+.another-half p{
+    text-align: justify;
+}
+.no-one{
+    float: left;
+    width: 40%;
+    background-color: rgb(13, 13, 46);
+    padding: 20px 20px;
+    margin: 20px 60px;
+    box-shadow: 15px 15px 50px rgb(0, 0, 0);
+    border-radius: 20px;
+}
+.no-one h2{
+    font-size: 40px;
+}
+.no-one h3{
+    color: #ffa600;
+}
+.last h1{
+    text-align: center;
+}
+.no-one p{
+    text-align: justify;
+}
+.another-half h3{
+    color:#ffa600;
+    font-size: 30px;
+}
+#ee{
+    color: #ffa600;
+}
+footer{
+    text-align: center;
+}
