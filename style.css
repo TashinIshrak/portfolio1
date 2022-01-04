@@ -4,11 +4,11 @@ span{
 body{
     font-family: 'Poppins', sans-serif;
     color: white;
-    background-color: #0F0826;
+    /* background-color: #0F0826; */
 }
 .top{
-    background-image: url(/image/tt.png);
-    background-repeat: no-repeat;
+    background-image: url(image/tt.png);
+    
 }
 .half-width h3{
     color:#ffa600;
